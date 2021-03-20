@@ -34,8 +34,15 @@ Before refactoring, our code was running at about 1.66 seconds for 2017 and abou
 
 ![2017 Runtime Unfactored](Resources/VBA_Challenge_2017_Unfactored.JPG) ![2018 Runtime Unfactored](Resources/VBA_Challenge_2017_Unfactored.JPG)
 
-After refactoring, our code was running at about .38 seconds for 2017 and about 
+After refactoring, our code was running at about .38 seconds for 2017 and about .33 seconds for 2018.
+
+![2018 Runtime Refactored](Resources/VBA_Challenge_2017.JPG) ![2018 Runtime Refactored](Resources/VBA_Challenge_2018.JPG)
+
+Our refactored code is almost five times faster!
 
 ## Summary
-- What are the advantages or disadvantages of refactoring code?
-- How do these pros and cons aply to refactoring the original VBA script?
+During the process of refactoring our VBA code, we found many positives and negatives with it. As for the advantages, refactoring code allows the code to run much more quickly than if it was unoptimized. While it may not seem as necessary with our current code, as a program becomes more complex, refactoring can mean the difference between it running in seconds or minutes - or even between minutes and hours. This increases the efficiency of running analyses as well as increasing productivity during the day. Additionally, code that has been properly refactored can allow lower-end computers efficient access to it, which can increase the consumer base when developing a product.
+
+There are some disadvantages to refactoring, however. Primarily, refactoring takes time during development that one may not have. When it's the choice between finishing the development of another functionality within your project or optimizing your code, one is likely to choose to complete their project as a whole. Additionally, once one has created a program whose code _works_, it can be difficult to refactor it without breaking functionality down the way. 
+
+Fortuantely, since our VBA script was not incredibly complicated and complex, we did not run into issues with time constraints or breaking functionality. We were able to get the benefitis of refactoring, that is, increasing the speed of our program five-fold, without much difficulty. Unfortunately, the disadvantages of refactoring may become starker as we begin larger, more complex programs further in time.
