@@ -17,6 +17,10 @@ We found that 2017 was a good market year for green companies. Every company tha
 
 ![2017 Stock Performance](Resources/VBA_Challenge_2017_Performance.JPG)
 
+Unforunately, 2018 did not live up to the expectations of 2017 in green companies' market performance. The general trend for green companies during 2018 was a loss of market value. Only ENPH and RUN maintained a postive rate of return, with both increasing their value by around 82-84%. DQ lost the most value during this year with a 62.6% decrease.
+
+![2018 Stock Performance](Resources/VBA_Challenge_2018_Performance.JPG)
+
 ### Code Execution Times
 
 
