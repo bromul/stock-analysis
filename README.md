@@ -13,7 +13,8 @@ Finally, once we set up a macro that was both useful for Steve's work and could 
 
 ### Stock Performance
 
-
+We found that 2017 was a good market year for green companies. Every company that was analyzed had a positive rate of return, with the exception of TERP, which lost 7.2% of value over the year. Four stocks in particular - DQ, ENPH, FSLR, and SEDG - at least doubled their value over 2017, with DQ having the largest increase in value with +199.2%. It's clear that DQ would have been a fantastic stock to invest in at the beginning of 2017. 
+!Image[2017 Stock Performance](github.com/bromul/main/stock-analysis/Resources/VBA_Challenge_2017_Performance.JPG)
 
 ### Code Execution Times
 
