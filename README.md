@@ -21,8 +21,20 @@ Unforunately, 2018 did not live up to the expectations of 2017 in green companie
 
 ![2018 Stock Performance](Resources/VBA_Challenge_2018_Performance.JPG)
 
+Although DQ did very poorly in 2018, so did most other green company stock during this time. With its strong performance in 2017 - even relative to other positive stocks at the time - it may not be prudent for Steve's parents to divest just yet. Ultimately, however, this decision may require further analysis into DQ itself to determine whether its change in performance between 2017 and 2018 are due to it being over-hyped and valued as a company or rather due to broader market trends at the time.
+
+Further, this initial analysis suggests that ENPH and RUN may be good investments in the long term, as they both had positive returns through both 2017 and 2018. That is, even when the general market trend for green companaies was negative, they managed to successly continue their growth.
+
+Conversely, TERP does not appear to be a worthy stock to invest in, as its returns over the courses of 2017 and 2018 have consistently been negative.
+
 ### Code Execution Times
 
+When refactoring the code, we found that by running through our data with a single loop - rather than by using nested loops - we could reduce the runtime of our program dramatically. 
+Before refactoring, our code was running at about 1.66 seconds for 2017 and about 1.55 seconds for 2018.
+
+![2017 Runtime Unfactored](Resources/VBA_Challenge_2017_Unfactored.JPG) ![2018 Runtime Unfactored](Resources/VBA_Challenge_2017_Unfactored.JPG)
+
+After refactoring, our code was running at about .38 seconds for 2017 and about 
 
 ## Summary
 - What are the advantages or disadvantages of refactoring code?
